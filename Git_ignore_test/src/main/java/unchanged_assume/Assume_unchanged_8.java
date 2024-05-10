@@ -30,6 +30,8 @@ public class Assume_unchanged_8 {
 	*/
 		System.out.println("==== Assume_unchanged_8.java 파일입니다. ===="); 
 		System.out.println("commit 후 수정해봅니다.");
+		System.out.println("2차 수정 후 commit 후 수정해봅니다.");
+		System.out.println("최종수정 했습니다.");
 
 	}
 
